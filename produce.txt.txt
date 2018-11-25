@@ -1,6 +1,6 @@
 cellphone
 computer
 printer
-TVVVVV
-iceboxxxx
-table lampppp
+TV
+icebox
+table lamp
