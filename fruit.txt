@@ -4,3 +4,6 @@ orange
 lemon
 pear
 peach
+computer
+cellphone
+green
