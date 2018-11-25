@@ -1,6 +1,6 @@
 apple
 banana
 orange
-lemonmmm
-pearmmm
-peachmmm
+lemon
+pear
+peach
