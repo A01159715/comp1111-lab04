@@ -1,3 +1,6 @@
 cellphone
 computer
 printer
+TV
+icebox
+table lamp
