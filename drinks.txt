@@ -1,3 +1,6 @@
 tea
 juice
 coffe
+computer
+green
+apple

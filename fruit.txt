@@ -1,9 +1,15 @@
 apple
-banana
+banana juice
 orange
 lemon
 pear
 peach
+water
+apple juice
 computer
-cellphone
-green
+
+
+
+
+
+
