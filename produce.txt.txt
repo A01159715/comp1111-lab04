@@ -3,4 +3,7 @@ computer
 printer
 TV
 icebox
-table lamp
+radio
+cup
+headset
+walkman
