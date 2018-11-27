@@ -1,6 +1,9 @@
 tea
 juice
 coffe
-computer
-green
-apple
+red tea
+green tea
+apple juice
+orange juice
+milk
+water
