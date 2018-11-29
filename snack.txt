@@ -5,4 +5,6 @@ egg tart
 bean
 French fries
 icecream
-
+noodle
+Drumstick
+hot-pot
